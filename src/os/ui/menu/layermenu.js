@@ -1,5 +1,4 @@
 goog.provide('os.ui.menu.layer');
-goog.provide('os.ui.menu.layer.Context');
 
 goog.require('goog.Timer');
 goog.require('ol.array');
